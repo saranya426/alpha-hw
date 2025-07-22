@@ -11,7 +11,7 @@ public class J42 {
 //       ki.display();
         Today to = new Today();
         to.greetings();
-        System.out.println("hiiiii anna welcome to github")
+        System.out.println("hiiiii anna welcome to github");
        
     }
     
